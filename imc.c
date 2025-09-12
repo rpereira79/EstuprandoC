@@ -27,24 +27,15 @@ void main()
         if( imc < 25){
             printf("peso ideal");
         }else{
-            if (imc < 30)
-            {
+            if (imc < 30){
                 printf("sobrepeso");
-            }
-            else
-            {
-                if (imc < 35)
-                {
+            }else{
+                if (imc < 35){
                     printf("obesidade grau 1");
-                }
-                else
-                {
-                            if (imc < 40)
-                            {
+                }else{
+                            if (imc < 40){
                                 printf("obesidade grau 2");
-                            }
-                            else
-                            {
+                            }else{
                                 printf("obesidade grau 3");
                             }
                 
