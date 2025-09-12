@@ -13,7 +13,6 @@ void main(){
   char fig;
   int r, l, h, b; // raio, lado, altura, base
 
-
   printf("Escolha a figura desejada dentre as:\n [C]irculo,\n [Q]uadrado,\n [T]riangulo \nDigite [S] para sair do programa...\n");
   scanf("%c", &fig);
 
